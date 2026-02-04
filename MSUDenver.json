@@ -38,6 +38,61 @@
     "registrationMessage": "2026 Summer registration is now open."
   },
   {
+    "item": "digital-marketing",
+    "schoolname": "Metropolitan State University of Denver",
+    "trackTitle": "Digital Marketing Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 8",
+    "endDate": "August 2",
+    "credits": "6 MSU Denver credits",
+    "abbreviation": "MSU Denver",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Metropolitan State University of Denver",
+    "trackTitle": "Web Development for Everyone Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 8",
+    "endDate": "August 2",
+    "credits": "6 MSU Denver credits",
+    "abbreviation": "MSU Denver",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Metropolitan State University of Denver",
+    "trackTitle": "Data Analytics Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 8",
+    "endDate": "August 2",
+    "credits": "6 MSU Denver credits",
+    "abbreviation": "MSU Denver",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Metropolitan State University of Denver",
+    "trackTitle": "Coding for Data Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 8",
+    "endDate": "August 2",
+    "credits": "6 MSU Denver credits",
+    "abbreviation": "MSU Denver",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Metropolitan State University of Denver",
+    "trackTitle": "Career Rotation Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 8",
+    "endDate": "August 2",
+    "credits": "6 MSU Denver credits",
+    "abbreviation": "MSU Denver",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
     "item": "reserve-a-seat",
     "programName": "MSU Denver Global Career Accelerator",
     "registrationMessage": "Registration is now open.",

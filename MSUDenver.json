@@ -13,7 +13,7 @@
     "partner_id": "001Rd00000LZnRdIAL",
     "programName": "MSU Denver Global Career Accelerator",
     "termsandConditionsPolicy": null,
-    "credits": "6 MSUDenver credits",
+    "credits": "6 MSU Denver credits",
     "startDate": "June 8",
     "endDate": "August 2"
   },
@@ -24,7 +24,7 @@
     "schoolFullAddress": "890 Auraria Pkwy\r\nDenver, CO 80204",
     "abbreviation": "MSU Denver",
     "phone": "(303) 529-8592",
-    "credits": "6 MSUDenver credits",
+    "credits": "6 MSU Denver credits",
     "programFee": null,
     "seasonYear": "Summer 2026",
     "term": "Summer",
@@ -33,7 +33,7 @@
   },
   {
     "item": "explore-tracks",
-    "credits": "6 MSUDenver credits",
+    "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
     "registrationMessage": "2026 Summer registration is now open."
   },
@@ -46,7 +46,7 @@
   },
   {
     "item": "begin",
-    "credits": "6 MSUDenver credits",
+    "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
     "phone": "(303) 529-8592"
   }

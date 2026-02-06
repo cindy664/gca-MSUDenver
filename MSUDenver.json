@@ -46,7 +46,8 @@
     "endDate": "August 2",
     "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LASC 490 (CRN: 40788)"
   },
   {
     "item": "coding-for-web",
@@ -57,7 +58,8 @@
     "endDate": "August 2",
     "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LASC 490 (CRN: 40788)"
   },
   {
     "item": "data-analytics",
@@ -68,7 +70,8 @@
     "endDate": "August 2",
     "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LASC 490 (CRN: 40788)"
   },
   {
     "item": "coding-for-data",
@@ -79,7 +82,8 @@
     "endDate": "August 2",
     "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LASC 490 (CRN: 40788)"
   },
   {
     "item": "career-rotation",
@@ -90,7 +94,8 @@
     "endDate": "August 2",
     "credits": "6 MSU Denver credits",
     "abbreviation": "MSU Denver",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LASC 490 (CRN: 40788)"
   },
   {
     "item": "reserve-a-seat",
